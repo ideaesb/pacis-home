@@ -1,0 +1,202 @@
+@charset "UTF-8";
+/* CSS Document */
+	
+
+* {
+	margin:0;
+	padding:0;
+	border:0;
+}
+	
+body 
+{
+	font-family: Arial, sans-serif;
+	background:#263f78 url(../images/background.jpg);
+	font-size:12px;
+	line-height:21px;
+}
+a 
+{
+  color:#17458b;
+}
+a:hover 
+{
+
+	text-decoration:none;
+}
+h1, h2, h3 
+{
+	margin:0 0 10px 0;
+}
+
+h3 
+{
+	font:bold 14px Arial;
+}
+p 
+{
+	margin-bottom:10px;
+
+}
+
+li {
+	margin-left:20px;
+}
+
+#container {
+	width:1000px;
+	margin:0 auto;
+}
+
+#midcon {
+	float:left;
+	width:506px;
+	height:177px;
+	background-color:#d9d9d9;
+	padding:20px 30px;
+	font-size:15px;
+}
+
+#vision {
+	float:left;
+	width:154px;
+	height:173px;
+	background-color:#0496c5;
+	color:#fff;
+	padding:22px 20px;
+	font:italic 20px Arial;
+	line-height:26px;
+	text-align:center;
+}
+
+#vision1 {
+	background-color:#d9d9d9;
+	padding:15px 25px;
+	margin:15px 0 20px 0;
+	line-height:24px;
+}
+
+
+#content {
+	width:964px;
+	padding:20px 0 20px 30px;
+	background-color:#fff;
+	float:left;
+	border-top:solid 2px #000;
+	border-bottom:solid 2px #000;
+	overflow:hidden;
+
+}
+
+#mission {
+	float:right;
+	width:400px;
+	background-color:#fff;
+	margin-left:30px;
+	margin-bottom:10px;
+
+
+}
+
+#mis-text {
+	padding:25px 30px;
+	background-color:#d9d9d9;
+	margin-bottom:10px;
+	height:513px;
+
+}
+#photos {
+	float:right;
+	width:194px;
+	margin-left:10px;
+
+
+
+}
+
+#photos img{
+	margin-bottom:10px;
+}
+
+#footer {
+	background-color:#0496c5;
+	height:100px;
+	width:964px;
+	padding:20px 0px 20px 30px;
+	float:left;
+	line-height:14px;
+}
+
+#footer1 {
+	background-color:#444;
+	height:30px;
+	width:964px;
+	padding:20px 0 20px 30px;
+	float:left;
+	color:#fff;
+}
+
+#col1 {
+	float:left;
+	width:440px;
+	margin-right:50px;
+
+}
+#col2 {
+	float:left;
+	width:440px;
+}
+
+#col2 img{
+	padding:5px;
+	border:solid 1px #ddd;
+	margin-bottom:20px;
+}
+
+.left {
+	float:left;
+}
+
+.margin {
+	margin-right:12px;
+}
+
+#nav {
+		float: left;
+		width:995px;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		background: #ccc;
+		border-bottom: 1px solid #999;
+		border-top: 1px solid #999;
+		}
+	
+	#nav li { 
+		float: left;
+		margin: 0;
+		padding: 0;
+		}
+	
+	#nav a {
+		float: left;
+		display: block;
+		padding: 6px 30px 6px 5px;
+		text-decoration: none;
+		font-size: 12px;
+		text-transform:uppercase;
+		color: #222;
+		background: #ccc url(../images/nav_slant.gif) no-repeat top right;
+		letter-spacing:1px;
+		}
+	
+	#nav #nav-1 a {
+		color: #333333;
+		margin-left:10px;
+		}
+	
+	#nav a:hover {
+		color: #333333;
+		text-decoration:underline;
+		}
+		
