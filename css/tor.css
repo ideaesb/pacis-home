@@ -1,0 +1,21 @@
+html, body
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body 
+{ 
+  background-color: #fff; /* change the color to your background color */ 
+}
+
+#main 
+{
+  width: 80%;
+  max-width: 1000px;
+  background-color:#EEE5C3;
+  border: solid black medium; /* remove if you don't want a border */
+  margin: 2em auto;
+  padding: 1em;
+  text-align:center;
+} 
