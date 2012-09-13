@@ -6,7 +6,8 @@ html, body
 }
 body 
 { 
-  background-color: #fff; /* change the color to your background color */ 
+  /* background-color: #fff; change the color to your background color */ 
+  background:#263f78 url(../images/background.jpg);
 }
 
 #main 
