@@ -6,17 +6,22 @@ html, body
 }
 body 
 { 
-  /* background-color: #fff; change the color to your background color */ 
-  background:#263f78 url(../images/background.jpg);
+  background-color: #fff; 
+  /* background:#263f78 url(../images/background.jpg); */
 }
 
 #main 
 {
   width: 80%;
-  max-width: 1000px;
-  background-color:#EEE5C3;
+  max-width: 904px;
+  background-color:#fff;
   border: solid black medium; /* remove if you don't want a border */
   margin: 2em auto;
   padding: 1em;
   text-align:center;
 } 
+img.floatRightClear { 
+    float: right; 
+    clear: right; 
+    margin: 4px; 
+}
