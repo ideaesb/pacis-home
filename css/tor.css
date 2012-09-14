@@ -20,7 +20,7 @@ body
   padding: 1em;
   text-align:center;
 } 
-img.floatRightClear { 
+.floatRightClear { 
     float: right; 
     clear: right; 
     margin: 4px; 
