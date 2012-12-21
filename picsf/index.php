@@ -1,7 +1,5 @@
-<?php
-header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
-header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
-?> 
+
+ 
 <html>
 <head>
 <title>Pacific Islands Climate Services Forum January 21-25 2013</title>
@@ -26,21 +24,24 @@ style='font-size:14.0pt;font-family:"Cambria","serif"'>University of the South P
 </div>
 
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
+<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>Please, FIRST, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDRJY0RLNDYwamRTNHNvWjVGWlNYOUE6MQ" target="_blank">RSVP</a> and, THEN,  <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHhTQ0gxNXBjOE5WbjVCSUdKaXBySXc6MQ" target="_blank">register</a>. (Deadline: 24 December 2012 Noon EST)</span></b></p>
+<p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="../docs/Updated%20Announcement%20v4.pdf" target="_blank">Announcement</a></span></b></p>
 <!--
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="../docs/PICSF%20Partners%20Meeting%20Announcement.pdf" target="_blank">Announcement - Partners Meeting</a></span></b></p>
--->
+
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="#" target="_blank">Participants</a></span></b></p>
+-->
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="agenda.pdf" target="_blank">Agenda - Week-at-a-Glance (Draft)</a></span></b></p>
+<p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
+<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="agendaDraft.pdf" target="_blank">Workshop Agenda - Draft</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="lodging.pdf" target="_blank">Lodging</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="poster.pdf" target="_blank">Poster Session</a> (Deadline: 15 December 2012 5 PM EST)</span></b></p>
-<p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
-<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>Please, FIRST, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDRJY0RLNDYwamRTNHNvWjVGWlNYOUE6MQ" target="_blank">RSVP</a> and, THEN,  <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHhTQ0gxNXBjOE5WbjVCSUdKaXBySXc6MQ" target="_blank">register</a>. (Deadline: 24 December 2012 Noon EST)</span></b></p>
 
 
 </body>
