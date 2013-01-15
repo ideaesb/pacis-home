@@ -30,14 +30,14 @@ style='font-size:14.0pt;font-family:"Cambria","serif"'>University of the South P
 <!--
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="../docs/PICSF%20Partners%20Meeting%20Announcement.pdf" target="_blank">Announcement - Partners Meeting</a></span></b></p>
-
-<p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
-<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="#" target="_blank">Participants</a></span></b></p>
 -->
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
-<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="agenda.pdf" target="_blank">Agenda - Week-at-a-Glance (Draft)</a></span></b></p>
+<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="participants.pdf" target="_blank">Participants</a></span></b></p>
+
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
-<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="agendaDraft.pdf" target="_blank">Workshop Agenda - Draft</a></span></b></p>
+<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="glance.pdf" target="_blank">Agenda - Week-at-a-Glance (Draft)</a></span></b></p>
+<p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
+<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="agenda.pdf" target="_blank">Workshop Agenda</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="lodging.pdf" target="_blank">Lodging</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
