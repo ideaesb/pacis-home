@@ -24,8 +24,10 @@ style='font-size:14.0pt;font-family:"Cambria","serif"'>University of the South P
 </div>
 
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
+<!--
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>Please, FIRST, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dDRJY0RLNDYwamRTNHNvWjVGWlNYOUE6MQ" target="_blank">RSVP</a> and, THEN,  <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHhTQ0gxNXBjOE5WbjVCSUdKaXBySXc6MQ" target="_blank">register</a>. (Deadline: 24 December 2012 Noon EST)</span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
+-->
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="../docs/Updated%20Announcement%20v4.pdf" target="_blank">Announcement</a></span></b></p>
 <!--
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
@@ -39,7 +41,7 @@ style='font-size:14.0pt;font-family:"Cambria","serif"'>University of the South P
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="forum.pdf" target="_blank">Training Agenda (Monday)</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
-<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="https://docs.google.com/a/noaa.gov/folder/d/0BwSQBHS0t5i1ekx2X1JzakRnRDA/edit?docId=0BwSQBHS0t5i1dFZwelNvbkxRRk0" target="_blank">Final Forum Agenda (Tuesday - Thursday)</a><br />(<a href="https://docs.google.com/a/noaa.gov/folder/d/0BwSQBHS0t5i1ekx2X1JzakRnRDA/edit" title="Forum Presentations" target="_blank">P R E S E N T A T I O N S</a>)</span></b></p>
+<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="agenda.pdf" target="_blank">Final Forum Agenda (Tuesday - Thursday)</a><br />(<a href="presentations/" title="Forum Presentations" target="_blank">P R E S E N T A T I O N S</a>)</span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="partners.pdf" target="_blank">Partner Meeting (Friday) - Invitation Only</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
