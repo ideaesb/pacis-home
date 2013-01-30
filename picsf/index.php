@@ -39,7 +39,7 @@ style='font-size:14.0pt;font-family:"Cambria","serif"'>University of the South P
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="forum.pdf" target="_blank">Training Agenda (Monday)</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
-<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="agenda.pdf" target="_blank">Forum Agenda (Tuesday - Thursday)</a></span></b></p>
+<p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="https://docs.google.com/a/noaa.gov/folder/d/0BwSQBHS0t5i1ekx2X1JzakRnRDA/edit?docId=0BwSQBHS0t5i1dFZwelNvbkxRRk0" target="_blank">Final Forum Agenda (Tuesday - Thursday)</a><br />(<a href="https://docs.google.com/a/noaa.gov/folder/d/0BwSQBHS0t5i1ekx2X1JzakRnRDA/edit" title="Forum Presentations" target="_blank">P R E S E N T A T I O N S</a>)</span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
 <p class=MsoBodyText align=center style='text-align:center'><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'><a href="partners.pdf" target="_blank">Partner Meeting (Friday) - Invitation Only</a></span></b></p>
 <p class=MsoBodyText><b><span style='font-size:12.0pt;font-family:"Cambria","serif"'>&nbsp;</span></b></p>
