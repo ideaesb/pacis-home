@@ -181,13 +181,19 @@ li {
 	#nav a {
 		float: left;
 		display: block;
-		padding: 6px 30px 6px 5px;
 		text-decoration: none;
 		font-size: 12px;
 		text-transform:uppercase;
 		color: #222;
-		background: #ccc url(../images/nav_slant.gif) no-repeat top right;
 		letter-spacing:1px;
+		}
+   #nav #fslash a {
+		padding: 6px 30px 6px 5px;
+		background: #ccc url(../images/nav_slant.gif) no-repeat top right;
+		}
+   #nav #bslash a {
+		padding: 6px 50px 6px 0px;
+		background: #ccc url(../images/flip_slant.gif) no-repeat top right;
 		}
 	
 	#nav #nav-1 a {
